@@ -1,0 +1,4380 @@
+{
+  "nbaPlayer": [
+    {
+      "id": 1,
+      "name": "Lebron James",
+      "age": "36",
+      "team": "Los Angeles Lakers",
+      "number": "23",
+      "position": "F",
+      "height": "6-9",
+      "weight": "250",
+      "birth_date": "December 30, 1984",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2003",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "17",
+      "college": "St. Vincent-St. Mary HS",
+      "ppg": "25.5",
+      "rpg": "7.9",
+      "apg": "7.9",
+      "pie": "19.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/global/D/logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Anthony Davis",
+      "age": "28",
+      "team": "Los Angeles Lakers",
+      "number": "3",
+      "position": "F-C",
+      "height": "6-10",
+      "weight": "253",
+      "birth_date": "March 11, 1993",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2012",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "8",
+      "college": "Kentucky",
+      "ppg": "22.5",
+      "rpg": "8.4",
+      "apg": "3.0",
+      "pie": "16.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/global/D/logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Dennis Schroder",
+      "age": "27",
+      "team": "Los Angeles Lakers",
+      "number": "17",
+      "position": "G",
+      "height": "6-3",
+      "weight": "172",
+      "birth_date": "September 15, 1993",
+      "country": "Germany",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "17"
+        }
+      ],
+      "experience": "7",
+      "college": "Braunschweig",
+      "ppg": "14.5",
+      "rpg": "3.5",
+      "apg": "4.5",
+      "pie": "8.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203471.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/global/D/logo.svg"
+    },
+    {
+      "id": 4,
+      "name": "Caldwell Pope",
+      "age": "28",
+      "team": "Los Angeles Lakers",
+      "number": "1",
+      "position": "G",
+      "height": "6-5",
+      "weight": "204",
+      "birth_date": "February 18, 1993",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "8"
+        }
+      ],
+      "experience": "7",
+      "college": "Georgia",
+      "ppg": "8.8",
+      "rpg": "2.5",
+      "apg": "1.4",
+      "pie": "6.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/global/D/logo.svg"
+    },
+    {
+      "id": 5,
+      "name": "Kyle Kuzma",
+      "age": "25",
+      "team": "Los Angeles Lakers",
+      "number": "0",
+      "position": "F",
+      "height": "6-10",
+      "weight": "221",
+      "birth_date": "July 24, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "27"
+        }
+      ],
+      "experience": "3",
+      "college": "Utah",
+      "ppg": "11.9",
+      "rpg": "6.8",
+      "apg": "1.2",
+      "pie": "10.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/global/D/logo.svg"
+    },
+    {
+      "id": 6,
+      "name": "Montrezl Harrell",
+      "age": "27",
+      "team": "Los Angeles Lakers",
+      "number": "15",
+      "position": "F-C",
+      "height": "6-7",
+      "weight": "240",
+      "birth_date": "January 26, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R2",
+          "pick": "32"
+        }
+      ],
+      "experience": "5",
+      "college": "Louisville",
+      "ppg": "14.2",
+      "rpg": "6.4",
+      "apg": "1.1",
+      "pie": "15.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626149.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/global/D/logo.svg"
+    },
+    {
+      "id": 7,
+      "name": "Alex Caruso",
+      "age": "27",
+      "team": "Los Angeles Lakers",
+      "number": "4",
+      "position": "G",
+      "height": "6-4",
+      "weight": "186",
+      "birth_date": "February 28, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "8",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "3",
+      "college": "Texas A&M",
+      "ppg": "5.7",
+      "rpg": "2.7",
+      "apg": "2.4",
+      "pie": "8.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612747/global/D/logo.svg"
+    },
+    {
+      "id": 8,
+      "name": "Zach Lavine",
+      "age": "26",
+      "team": "Chicago Bulls",
+      "number": "8",
+      "position": "G-F",
+      "height": "6-5",
+      "weight": "200",
+      "birth_date": "March 10, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "13"
+        }
+      ],
+      "experience": "6",
+      "college": "UCLA",
+      "ppg": "28.1",
+      "rpg": "5.2",
+      "apg": "5.1",
+      "pie": "14.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203897.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/global/D/logo.svg"
+    },
+
+    {
+      "id": 9,
+      "name": "Ryan Arcidiacono",
+      "age": "26",
+      "team": "Chicago Bulls",
+      "number": "51",
+      "position": "G",
+      "height": "6-3",
+      "weight": "195",
+      "birth_date": "March 26, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "3",
+      "college": "Villanova",
+      "ppg": "3.1",
+      "rpg": "1.8",
+      "apg": "1.3",
+      "pie": "8.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627853.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/global/D/logo.svg"
+    },
+
+    {
+      "id": 10,
+      "name": "Wendell CarterJr",
+      "age": "21",
+      "team": "Chicago Bulls",
+      "number": "34",
+      "position": "F-C",
+      "height": "6-10",
+      "weight": "270",
+      "birth_date": "April 16, 1999",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "2",
+      "college": "Duke",
+      "ppg": "11.8",
+      "rpg": "8.0",
+      "apg": "2.2",
+      "pie": "10.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/global/D/logo.svg"
+    },
+
+    {
+      "id": 11,
+      "name": "Lauri Markkanen",
+      "age": "23",
+      "team": "Chicago Bulls",
+      "number": "24",
+      "position": "F-C",
+      "height": "7-0",
+      "weight": "240",
+      "birth_date": "May 22, 1997",
+      "country": "Finland",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "3",
+      "college": "Arizona",
+      "ppg": "19.1",
+      "rpg": "6.0",
+      "apg": "0.9",
+      "pie": "12.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/global/D/logo.svg"
+    },
+
+    {
+      "id": 12,
+      "name": "Otto PorterJr",
+      "age": "27",
+      "team": "Chicago Bulls",
+      "number": "22",
+      "position": "F",
+      "height": "6-8",
+      "weight": "198",
+      "birth_date": "June 3, 1993",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "7",
+      "college": "Georgetown",
+      "ppg": "10.5",
+      "rpg": "6.0",
+      "apg": "2.0",
+      "pie": "12.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203490.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/global/D/logo.svg"
+    },
+
+    {
+      "id": 13,
+      "name": "Tomas Satoransky",
+      "age": "29",
+      "team": "Chicago Bulls",
+      "number": "31",
+      "position": "G",
+      "height": "6-7",
+      "weight": "210",
+      "birth_date": "October 30, 1991",
+      "country": "Czech Republic",
+      "draft": [
+        {
+          "year": "2012",
+          "round": "R2",
+          "pick": "32"
+        }
+      ],
+      "experience": "4",
+      "college": "FC Barcelona",
+      "ppg": "7.1",
+      "rpg": "2.6",
+      "apg": "4.5",
+      "pie": "10.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203107.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/global/D/logo.svg"
+    },
+
+    {
+      "id": 14,
+      "name": "Coby White",
+      "age": "21",
+      "team": "Chicago Bulls",
+      "number": "0",
+      "position": "G",
+      "height": "6-5",
+      "weight": "195",
+      "birth_date": "February 16, 2000",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "1",
+      "college": "North Carolina",
+      "ppg": "16.0",
+      "rpg": "4.9",
+      "apg": "5.0",
+      "pie": "9.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612741/global/D/logo.svghttps://cdn.nba.com/logos/nba/1610612741/global/D/logo.svg"
+    },
+
+    {
+      "id": 15,
+      "name": "Kevin Durant",
+      "age": "32",
+      "team": "Brooklyn Nets",
+      "number": "7",
+      "position": "F",
+      "height": "6-10",
+      "weight": "240",
+      "birth_date": "September 29, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2007",
+          "round": "R1",
+          "pick": "2"
+        }
+      ],
+      "experience": "12",
+      "college": "Texas",
+      "ppg": "29.0",
+      "rpg": "7.3",
+      "apg": "5.3",
+      "pie": "16.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/global/D/logo.svg"
+    },
+
+    {
+      "id": 16,
+      "name": "James Harden",
+      "age": "31",
+      "team": "Brooklyn Nets",
+      "number": "13",
+      "position": "G",
+      "height": "6-5",
+      "weight": "220",
+      "birth_date": "August 26, 1989",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2009",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "11",
+      "college": "Arizona State",
+      "ppg": "25.0",
+      "rpg": "8.1",
+      "apg": "11.1",
+      "pie": "17.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/global/D/logo.svg"
+    },
+
+    {
+      "id": 17,
+      "name": "Kyrie Irving",
+      "age": "28",
+      "team": "Brooklyn Nets",
+      "number": "11",
+      "position": "G",
+      "height": "6-2",
+      "weight": "195",
+      "birth_date": "March 23, 1992",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "9",
+      "college": "Duke",
+      "ppg": "27.6",
+      "rpg": "4.7",
+      "apg": "5.8",
+      "pie": "14.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/global/D/logo.svg"
+    },
+
+    {
+      "id": 18,
+      "name": "Joe Harris",
+      "age": "29",
+      "team": "Brooklyn Nets",
+      "number": "12",
+      "position": "G-F",
+      "height": "6-6",
+      "weight": "220",
+      "birth_date": "September 6, 1991",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R2",
+          "pick": "33"
+        }
+      ],
+      "experience": "6",
+      "college": "Virginia",
+      "ppg": "14.6",
+      "rpg": "3.5",
+      "apg": "1.7",
+      "pie": "8.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203925.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/global/D/logo.svg"
+    },
+
+    {
+      "id": 19,
+      "name": "Blake Griffin",
+      "age": "32",
+      "team": "Brooklyn Nets",
+      "number": "2",
+      "position": "F",
+      "height": "6-9",
+      "weight": "250",
+      "birth_date": "March 16, 1989",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2009",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "10",
+      "college": "Oklahoma",
+      "ppg": "12.3",
+      "rpg": "5.2",
+      "apg": "3.9",
+      "pie": "8.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201933.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/global/D/logo.svg"
+    },
+
+    {
+      "id": 20,
+      "name": "DeAndre Jordan",
+      "age": "32",
+      "team": "Brooklyn Nets",
+      "number": "6",
+      "position": "C",
+      "height": "6-11",
+      "weight": "265",
+      "birth_date": "July 21, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R2",
+          "pick": "35"
+        }
+      ],
+      "experience": "12",
+      "college": "Texas A&M",
+      "ppg": "7.5",
+      "rpg": "7.6",
+      "apg": "1.8",
+      "pie": "10.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201599.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/global/D/logo.svg"
+    },
+
+    {
+      "id": 21,
+      "name": "Landry Shamet",
+      "age": "24",
+      "team": "Brooklyn Nets",
+      "number": "20",
+      "position": "G",
+      "height": "6-4",
+      "weight": "190",
+      "birth_date": "March 13, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "26"
+        }
+      ],
+      "experience": "2",
+      "college": "Wichita State",
+      "ppg": "8.1",
+      "rpg": "1.8",
+      "apg": "1.2",
+      "pie": "6.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612751/global/D/logo.svg"
+    },
+
+    {
+      "id": 22,
+      "name": "Seth Curry",
+      "age": "30",
+      "team": "Philadelphia 76ers",
+      "number": "31",
+      "position": "G",
+      "height": "6-2",
+      "weight": "185",
+      "birth_date": "August 23, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "6",
+      "college": "Duke",
+      "ppg": "12.8",
+      "rpg": "2.1",
+      "apg": "2.9",
+      "pie": "8.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203552.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/global/D/logo.svg"
+    },
+
+    {
+      "id": 23,
+      "name": "Joel Embiid",
+      "age": "27",
+      "team": "Philadelphia 76ers",
+      "number": "21",
+      "position": "C-F",
+      "height": "7-0",
+      "weight": "280",
+      "birth_date": "March 16, 1994",
+      "country": "Cameroon",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "4",
+      "college": "Kansas",
+      "ppg": "29.9",
+      "rpg": "11.5",
+      "apg": "3.3",
+      "pie": "21.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/global/D/logo.svg"
+    },
+
+    {
+      "id": 24,
+      "name": "Tobias Harris",
+      "age": "28",
+      "team": "Philadelphia 76ers",
+      "number": "12",
+      "position": "F",
+      "height": "6-8",
+      "weight": "226",
+      "birth_date": "July 15, 1992",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "19"
+        }
+      ],
+      "experience": "9",
+      "college": "Tennessee",
+      "ppg": "20.2",
+      "rpg": "7.5",
+      "apg": "3.5",
+      "pie": "14.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202699.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/global/D/logo.svg"
+    },
+
+    {
+      "id": 25,
+      "name": "Danny Green",
+      "age": "33",
+      "team": "Philadelphia 76ers",
+      "number": "14",
+      "position": "G",
+      "height": "6-6",
+      "weight": "215",
+      "birth_date": "June 22, 1987",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2009",
+          "round": "R2",
+          "pick": "46"
+        }
+      ],
+      "experience": "11",
+      "college": "North Carolina",
+      "ppg": "8.8",
+      "rpg": "3.7",
+      "apg": "1.8",
+      "pie": "6.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201980.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/global/D/logo.svg"
+    },
+
+    {
+      "id": 26,
+      "name": "Ben Simmons",
+      "age": "24",
+      "team": "Philadelphia 76ers",
+      "number": "25",
+      "position": "G-F",
+      "height": "6-11",
+      "weight": "240",
+      "birth_date": "July 20, 1996",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "3",
+      "college": "Louisiana State",
+      "ppg": "16.0",
+      "rpg": "7.8",
+      "apg": "7.7",
+      "pie": "13.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/global/D/logo.svg"
+    },
+
+    {
+      "id": 27,
+      "name": "Dwight Howard",
+      "age": "35",
+      "team": "Philadelphia 76ers",
+      "number": "39",
+      "position": "F-C",
+      "height": "6-10",
+      "weight": "265",
+      "birth_date": "December 8, 1985",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2004",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "16",
+      "college": "SW Atlanta Christian Academy",
+      "ppg": "6.4",
+      "rpg": "7.5",
+      "apg": "0.8",
+      "pie": "11.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/2730.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/global/D/logo.svg"
+    },
+
+    {
+      "id": 28,
+      "name": "Matise Thybulle",
+      "age": "24",
+      "team": "Philadelphia 76ers",
+      "number": "22",
+      "position": "G-F",
+      "height": "6-5",
+      "weight": "201",
+      "birth_date": "March 4, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R1",
+          "pick": "20"
+        }
+      ],
+      "experience": "1",
+      "college": "Washington",
+      "ppg": "3.7",
+      "rpg": "1.6",
+      "apg": "1.0",
+      "pie": "4.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612755/global/D/logo.svg"
+    },
+
+    {
+      "id": 29,
+      "name": "Giannis Antetokounmpo",
+      "age": "26",
+      "team": "Milwaukee Bucks",
+      "number": "34",
+      "position": "F",
+      "height": "6-11",
+      "weight": "242",
+      "birth_date": "December 6, 1994",
+      "country": "Greece",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "15"
+        }
+      ],
+      "experience": "7",
+      "college": "Filathlitikos",
+      "ppg": "29.0",
+      "rpg": "11.7",
+      "apg": "6.2",
+      "pie": "19.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612749/global/D/logo.svg"
+    },
+
+    {
+      "id": 30,
+      "name": "Khris Middleton",
+      "age": "29",
+      "team": "Milwaukee Bucks",
+      "number": "22",
+      "position": "F",
+      "height": "6-7",
+      "weight": "222",
+      "birth_date": "August 12, 1991",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2012",
+          "round": "R2",
+          "pick": "39"
+        }
+      ],
+      "experience": "8",
+      "college": "Texas A&M",
+      "ppg": "20.4",
+      "rpg": "6.1",
+      "apg": "5.6",
+      "pie": "12.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203114.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612749/global/D/logo.svg"
+    },
+
+    {
+      "id": 31,
+      "name": "Donte DiVincenzo",
+      "age": "24",
+      "team": "Milwaukee Bucks",
+      "number": "0",
+      "position": "G",
+      "height": "6-4",
+      "weight": "203",
+      "birth_date": "January 31, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "17"
+        }
+      ],
+      "experience": "2",
+      "college": "Villanova",
+      "ppg": "10.3",
+      "rpg": "5.1",
+      "apg": "3.0",
+      "pie": "8.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612749/global/D/logo.svg"
+    },
+
+    {
+      "id": 32,
+      "name": "Jrue Holiday",
+      "age": "30",
+      "team": "Milwaukee Bucks",
+      "number": "21",
+      "position": "G",
+      "height": "6-3",
+      "weight": "205",
+      "birth_date": "June 12, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2009",
+          "round": "R1",
+          "pick": "17"
+        }
+      ],
+      "experience": "11",
+      "college": "UCLA",
+      "ppg": "15.2",
+      "rpg": "4.5",
+      "apg": "4.9",
+      "pie": "11.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612749/global/D/logo.svg"
+    },
+
+    {
+      "id": 33,
+      "name": "Brook Lopez",
+      "age": "32",
+      "team": "Milwaukee Bucks",
+      "number": "11",
+      "position": "C",
+      "height": "7-0",
+      "weight": "282",
+      "birth_date": "April 1, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "10"
+        }
+      ],
+      "experience": "12",
+      "college": "Stanford",
+      "ppg": "11.1",
+      "rpg": "5.1",
+      "apg": "0.7",
+      "pie": "7.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612749/global/D/logo.svg"
+    },
+
+    {
+      "id": 34,
+      "name": "Collin Sexton",
+      "age": "22",
+      "team": "Cleveland Cavaliers",
+      "number": "2",
+      "position": "G",
+      "height": "6-1",
+      "weight": "190",
+      "birth_date": "January 4, 1999",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "8"
+        }
+      ],
+      "experience": "2",
+      "college": "Alabama",
+      "ppg": "23.7",
+      "rpg": "2.6",
+      "apg": "4.2",
+      "pie": "11.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg"
+    },
+
+    {
+      "id": 35,
+      "name": "Javale Mcgee",
+      "age": "33",
+      "team": "Cleveland Cavaliers",
+      "number": "6",
+      "position": "F-C",
+      "height": "7-0",
+      "weight": "270",
+      "birth_date": "January 19, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "18"
+        }
+      ],
+      "experience": "12",
+      "college": "Nevada-Reno",
+      "ppg": "7.6",
+      "rpg": "4.9",
+      "apg": "1.0",
+      "pie": "11.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201580.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg"
+    },
+
+    {
+      "id": 36,
+      "name": "Jarrett Allen",
+      "age": "22",
+      "team": "Cleveland Cavaliers",
+      "number": "31",
+      "position": "C",
+      "height": "6-11",
+      "weight": "243",
+      "birth_date": "April 21, 1998",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "22"
+        }
+      ],
+      "experience": "3",
+      "college": "Texas",
+      "ppg": "13.1",
+      "rpg": "9.8",
+      "apg": "1.7",
+      "pie": "15.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg"
+    },
+
+    {
+      "id": 37,
+      "name": "Kevin Love",
+      "age": "32",
+      "team": "Cleveland Cavaliers",
+      "number": "0",
+      "position": "F-C",
+      "height": "6-8",
+      "weight": "251",
+      "birth_date": "September 7, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "5"
+        }
+      ],
+      "experience": "12",
+      "college": "UCLA",
+      "ppg": "5.8",
+      "rpg": "3.3",
+      "apg": "1.3",
+      "pie": "7.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201567.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg"
+    },
+
+    {
+      "id": 38,
+      "name": "Issac Okoro",
+      "age": "20",
+      "team": "Cleveland Cavaliers",
+      "number": "35",
+      "position": "F-G",
+      "height": "6-5",
+      "weight": "225",
+      "birth_date": "January 26, 2001",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2020",
+          "round": "R1",
+          "pick": "5"
+        }
+      ],
+      "experience": "Rookie",
+      "college": "Auburn",
+      "ppg": "7.8",
+      "rpg": "2.7",
+      "apg": "1.8",
+      "pie": "2.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg"
+    },
+
+    {
+      "id": 39,
+      "name": "Jayson Tatum",
+      "age": "23",
+      "team": "Boston Celtics",
+      "number": "0",
+      "position": "F-G",
+      "height": "6-8",
+      "weight": "210",
+      "birth_date": "March 3, 1998",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "3",
+      "college": "Duke",
+      "ppg": "25.1",
+      "rpg": "7.0",
+      "apg": "4.5",
+      "pie": "14.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612738/global/D/logo.svg"
+    },
+
+    {
+      "id": 40,
+      "name": "Jaylen Brown",
+      "age": "24",
+      "team": "Boston Celtics",
+      "number": "7",
+      "position": "F-G",
+      "height": "6-6",
+      "weight": "223",
+      "birth_date": "October 24, 1996",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "4",
+      "college": "California",
+      "ppg": "24.3",
+      "rpg": "5.5",
+      "apg": "3.9",
+      "pie": "13.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612738/global/D/logo.svg"
+    },
+
+    {
+      "id": 41,
+      "name": "Kemba Walker",
+      "age": "30",
+      "team": "Boston Celtics",
+      "number": "8",
+      "position": "G",
+      "height": "6-0",
+      "weight": "184",
+      "birth_date": "May 8, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "9"
+        }
+      ],
+      "experience": "9",
+      "college": "Connecticut",
+      "ppg": "18.0",
+      "rpg": "3.7",
+      "apg": "4.5",
+      "pie": "11.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202689.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612738/global/D/logo.svg"
+    },
+
+    {
+      "id": 42,
+      "name": "Daniel Theis",
+      "age": "28",
+      "team": "Boston Celtics",
+      "number": "27",
+      "position": "F-C",
+      "height": "6-8",
+      "weight": "245",
+      "birth_date": "April 4, 1992",
+      "country": "Germany",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "3",
+      "college": "Brose Bamberg",
+      "ppg": "9.2",
+      "rpg": "4.9",
+      "apg": "1.3",
+      "pie": "9.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628464.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612738/global/D/logo.svg"
+    },
+
+    {
+      "id": 43,
+      "name": "Marcus Smart",
+      "age": "27",
+      "team": "Boston Celtics",
+      "number": "36",
+      "position": "G",
+      "height": "6-3",
+      "weight": "220",
+      "birth_date": "March 6, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "6"
+        }
+      ],
+      "experience": "6",
+      "college": "Oklahoma State",
+      "ppg": "12.9",
+      "rpg": "2.6",
+      "apg": "5.7",
+      "pie": "9.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612738/global/D/logo.svg"
+    },
+
+    {
+      "id": 44,
+      "name": "Paul Geogre",
+      "age": "30",
+      "team": "LA Clippers",
+      "number": "13",
+      "position": "F",
+      "height": "6-8",
+      "weight": "220",
+      "birth_date": "May 2, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2010",
+          "round": "R1",
+          "pick": "10"
+        }
+      ],
+      "experience": "10",
+      "college": "Freshno State",
+      "ppg": "22.9",
+      "rpg": "6.1",
+      "apg": "5.3",
+      "pie": "14.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612746/global/D/logo.svg"
+    },
+
+    {
+      "id": 45,
+      "name": "Kawhi Leonard",
+      "age": "29",
+      "team": "LA Clippers",
+      "number": "2",
+      "position": "F",
+      "height": "6-7",
+      "weight": "225",
+      "birth_date": "June 29, 1991",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "15"
+        }
+      ],
+      "experience": "9",
+      "college": "San Diego State",
+      "ppg": "26.4",
+      "rpg": "6.4",
+      "apg": "4.8",
+      "pie": "17.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612746/global/D/logo.svg"
+    },
+
+    {
+      "id": 46,
+      "name": "Nicolas Batum",
+      "age": "32",
+      "team": "LA Clippers",
+      "number": "33",
+      "position": "G-F",
+      "height": "6-8",
+      "weight": "230",
+      "birth_date": "December 14, 1988",
+      "country": "France",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "25"
+        }
+      ],
+      "experience": "12",
+      "college": "Le Mans",
+      "ppg": "8.9",
+      "rpg": "4.7",
+      "apg": "2.3",
+      "pie": "8.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201587.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612746/global/D/logo.svg"
+    },
+
+    {
+      "id": 47,
+      "name": "Patrick Beverley",
+      "age": "32",
+      "team": "LA Clippers",
+      "number": "21",
+      "position": "G",
+      "height": "6-1",
+      "weight": "180",
+      "birth_date": "July 12, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2009",
+          "round": "R2",
+          "pick": "42"
+        }
+      ],
+      "experience": "8",
+      "college": "Arkansas",
+      "ppg": "8.3",
+      "rpg": "3.7",
+      "apg": "2.1",
+      "pie": "7.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201976.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612746/global/D/logo.svg"
+    },
+
+    {
+      "id": 48,
+      "name": "Ivica Zubac",
+      "age": "23",
+      "team": "LA Clippers",
+      "number": "40",
+      "position": "C",
+      "height": "7-0",
+      "weight": "240",
+      "birth_date": "March 18, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R2",
+          "pick": "32"
+        }
+      ],
+      "experience": "4",
+      "college": "Mega Basket",
+      "ppg": "8.2",
+      "rpg": "7.0",
+      "apg": "1.1",
+      "pie": "12.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627826.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612746/global/D/logo.svg"
+    },
+
+    {
+      "id": 49,
+      "name": "Ja Morant",
+      "age": "21",
+      "team": "Memphis Grizzlies",
+      "number": "12",
+      "position": "G",
+      "height": "6-3",
+      "weight": "174",
+      "birth_date": "August 10, 1999",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R1",
+          "pick": "2"
+        }
+      ],
+      "experience": "1",
+      "college": "Murray State",
+      "ppg": "19.6",
+      "rpg": "3.3",
+      "apg": "7.6",
+      "pie": "12.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612763/global/D/logo.svg"
+    },
+
+    {
+      "id": 50,
+      "name": "Jonas Valanciunas",
+      "age": "28",
+      "team": "Memphis Grizzlies",
+      "number": "17",
+      "position": "C",
+      "height": "6-11",
+      "weight": "265",
+      "birth_date": "May 6, 1992",
+      "country": "Lithuania",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "5"
+        }
+      ],
+      "experience": "8",
+      "college": "Lietuvos rytas Vilnius",
+      "ppg": "16.2",
+      "rpg": "11.9",
+      "apg": "1.8",
+      "pie": "14.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202685.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612763/global/D/logo.svg"
+    },
+
+    {
+      "id": 51,
+      "name": "Grayson Allen",
+      "age": "25",
+      "team": "Memphis Grizzlies",
+      "number": "3",
+      "position": "G",
+      "height": "6-4",
+      "weight": "198",
+      "birth_date": "October 8, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "21"
+        }
+      ],
+      "experience": "2",
+      "college": "Duke",
+      "ppg": "9.5",
+      "rpg": "2.8",
+      "apg": "2.3",
+      "pie": "8.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612763/global/D/logo.svg"
+    },
+
+    {
+      "id": 52,
+      "name": "Tyus Jones",
+      "age": "24",
+      "team": "Memphis Grizzlies",
+      "number": "21",
+      "position": "G",
+      "height": "6-0",
+      "weight": "196",
+      "birth_date": "May 10, 1996",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "24"
+        }
+      ],
+      "experience": "5",
+      "college": "Duke",
+      "ppg": "8.0",
+      "rpg": "2.4",
+      "apg": "4.3",
+      "pie": "11.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626145.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612763/global/D/logo.svg"
+    },
+
+    {
+      "id": 53,
+      "name": "Kyle Anderson",
+      "age": "27",
+      "team": "Memphis Grizzlies",
+      "number": "1",
+      "position": "F-G",
+      "height": "6-9",
+      "weight": "230",
+      "birth_date": "September 20, 1993",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "30"
+        }
+      ],
+      "experience": "6",
+      "college": "UCLA",
+      "ppg": "12.9",
+      "rpg": "5.9",
+      "apg": "3.4",
+      "pie": "12.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203937.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612763/global/D/logo.svg"
+    },
+
+    {
+      "id": 54,
+      "name": "Kevin Huerter",
+      "age": "22",
+      "team": "Atlanta Hawks",
+      "number": "3",
+      "position": "G-F",
+      "height": "6-7",
+      "weight": "190",
+      "birth_date": "August 27, 1998",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "19"
+        }
+      ],
+      "experience": "2",
+      "college": "Maryland",
+      "ppg": "12.2",
+      "rpg": "3.6",
+      "apg": "3.6",
+      "pie": "7.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628989.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg"
+    },
+
+    {
+      "id": 55,
+      "name": "Trae Young",
+      "age": "22",
+      "team": "Atlanta Hawks",
+      "number": "11",
+      "position": "G",
+      "height": "6-1",
+      "weight": "180",
+      "birth_date": "September 19, 1998",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "5"
+        }
+      ],
+      "experience": "2",
+      "college": "Oklahoma",
+      "ppg": "26.4",
+      "rpg": "4.1",
+      "apg": "9.2",
+      "pie": "15.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg"
+    },
+
+    {
+      "id": 56,
+      "name": "John Collins",
+      "age": "23",
+      "team": "Atlanta Hawks",
+      "number": "20",
+      "position": "F-C",
+      "height": "6-9",
+      "weight": "235",
+      "birth_date": "September 23, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "19"
+        }
+      ],
+      "experience": "3",
+      "college": "Wake Forest",
+      "ppg": "17.9",
+      "rpg": "7.7",
+      "apg": "1.4",
+      "pie": "11.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg"
+    },
+
+    {
+      "id": 57,
+      "name": "Danilo Gallinari",
+      "age": "32",
+      "team": "Atlanta Hawks",
+      "number": "8",
+      "position": "F",
+      "height": "6-10",
+      "weight": "233",
+      "birth_date": "August 8, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "6"
+        }
+      ],
+      "experience": "11",
+      "college": "Olimpia Milano",
+      "ppg": "12.4",
+      "rpg": "3.6",
+      "apg": "1.4",
+      "pie": "10.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201568.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg"
+    },
+
+    {
+      "id": 58,
+      "name": "Rajon Rondo",
+      "age": "35",
+      "team": "Atlanta Hawks",
+      "number": "7",
+      "position": "G",
+      "height": "6-1",
+      "weight": "180",
+      "birth_date": "February 22, 1986",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2006",
+          "round": "R1",
+          "pick": "21"
+        }
+      ],
+      "experience": "14",
+      "college": "Kentucky",
+      "ppg": "3.9",
+      "rpg": "2.1",
+      "apg": "3.4",
+      "pie": "9.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/200765.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg"
+    },
+
+    {
+      "id": 59,
+      "name": "Bam Adebayo",
+      "age": "23",
+      "team": "Miami Heat",
+      "number": "13",
+      "position": "F-C",
+      "height": "6-9",
+      "weight": "255",
+      "birth_date": "July 18, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "14"
+        }
+      ],
+      "experience": 3,
+      "college": "Kentucky",
+      "ppg": "19.2",
+      "rpg": "9.5",
+      "apg": "5.4",
+      "pie": "16.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg"
+    },
+
+    {
+      "id": 60,
+      "name": "Jimmy Butler",
+      "age": "31",
+      "team": "Miami Heat",
+      "number": "22",
+      "position": "F",
+      "height": "6-7",
+      "weight": "230",
+      "birth_date": "September 14, 1989",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "30"
+        }
+      ],
+      "experience": "9",
+      "college": "Marquette",
+      "ppg": "21.4",
+      "rpg": "7.4",
+      "apg": "8.0",
+      "pie": "19.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg"
+    },
+
+    {
+      "id": 61,
+      "name": "Tyler Herro",
+      "age": "21",
+      "team": "Miami Heat",
+      "number": "14",
+      "position": "G",
+      "height": "6-5",
+      "weight": "195",
+      "birth_date": "January 20, 2000",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R1",
+          "pick": "13"
+        }
+      ],
+      "experience": "1",
+      "college": "Kentucky",
+      "ppg": "15.7",
+      "rpg": "5.7",
+      "apg": "3.5",
+      "pie": "10.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629639.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg"
+    },
+
+    {
+      "id": 62,
+      "name": "Duncan Robinson",
+      "age": "26",
+      "team": "Miami Heat",
+      "number": "55",
+      "position": "F",
+      "height": "6-7",
+      "weight": "215",
+      "birth_date": "April 22, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "2",
+      "college": "Michigan",
+      "ppg": "12.8",
+      "rpg": "3.9",
+      "apg": "1.6",
+      "pie": "7.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629130.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg"
+    },
+
+    {
+      "id": 63,
+      "name": "Goran Dragic",
+      "age": "34",
+      "team": "Miami Heat",
+      "number": "7",
+      "position": "G",
+      "height": "6-3",
+      "weight": "190",
+      "birth_date": "May 6, 1986",
+      "country": "Slovenia",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R2",
+          "pick": "45"
+        }
+      ],
+      "experience": "12",
+      "college": "Union Olimpija",
+      "ppg": "14.6",
+      "rpg": "3.3",
+      "apg": "4.9",
+      "pie": "10.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201609.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg"
+    },
+
+    {
+      "id": 64,
+      "name": "Lamelo Ball",
+      "age": "19",
+      "team": "Charlotte Hornets",
+      "number": "2",
+      "position": "G",
+      "height": "6-6",
+      "weight": "180",
+      "birth_date": "August 22, 2001",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2020",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "Rookie",
+      "college": "Illawarra",
+      "ppg": "15.8",
+      "rpg": "6.0",
+      "apg": "6.3",
+      "pie": "12.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612766/global/D/logo.svg"
+    },
+
+    {
+      "id": 65,
+      "name": "Miles Bridges",
+      "age": "22",
+      "team": "Charlotte Hornets",
+      "number": "0",
+      "position": "F",
+      "height": "6-6",
+      "weight": "225",
+      "birth_date": "March 21, 1998",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "12"
+        }
+      ],
+      "experience": "2",
+      "college": "Michigan State",
+      "ppg": "9.7",
+      "rpg": "5.7",
+      "apg": "2.0",
+      "pie": "8.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628970.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612766/global/D/logo.svg"
+    },
+
+    {
+      "id": 66,
+      "name": "Gordon Hayward",
+      "age": "30",
+      "team": "Charlotte Hornets",
+      "number": "20",
+      "position": "F",
+      "height": "6-7",
+      "weight": "225",
+      "birth_date": "March 23, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2010",
+          "round": "R1",
+          "pick": "9"
+        }
+      ],
+      "experience": "10",
+      "college": "Butler",
+      "ppg": "21.1",
+      "rpg": "5.4",
+      "apg": "3.9",
+      "pie": "12.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628984.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612766/global/D/logo.svg"
+    },
+
+    {
+      "id": 67,
+      "name": "Devonte Graham",
+      "age": "26",
+      "team": "Charlotte Hornets",
+      "number": "4",
+      "position": "G",
+      "height": "6-1",
+      "weight": "195",
+      "birth_date": "February 22, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R2",
+          "pick": "34"
+        }
+      ],
+      "experience": "2",
+      "college": "Kansas",
+      "ppg": "13.5",
+      "rpg": "2.9",
+      "apg": "5.6",
+      "pie": "8.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628984.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612766/global/D/logo.svg"
+    },
+
+    {
+      "id": 68,
+      "name": "Terry Rozier",
+      "age": "26",
+      "team": "Charlotte Hornets",
+      "number": "3",
+      "position": "G",
+      "height": "6-1",
+      "weight": "190",
+      "birth_date": "March 17, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "16"
+        }
+      ],
+      "experience": "5",
+      "college": "Louisville",
+      "ppg": "20.4",
+      "rpg": "3.7",
+      "apg": "3.2",
+      "pie": "11.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626179.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612766/global/D/logo.svg"
+    },
+
+    {
+      "id": 69,
+      "name": "Donovan Mitchell",
+      "age": "24",
+      "team": "Utah Jazz",
+      "number": "45",
+      "position": "G",
+      "height": "6-1",
+      "weight": "215",
+      "birth_date": "September 7, 1996",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "13"
+        }
+      ],
+      "experience": "3",
+      "college": "Louisville",
+      "ppg": "24.8",
+      "rpg": "4.6",
+      "apg": "5.4",
+      "pie": "12.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612762/global/D/logo.svg"
+    },
+
+    {
+      "id": 70,
+      "name": "Mike Conley",
+      "age": "33",
+      "team": "Utah Jazz",
+      "number": "10",
+      "position": "G",
+      "height": "6-1",
+      "weight": "175",
+      "birth_date": "October 11, 1987",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2007",
+          "round": "R1",
+          "pick": "4"
+        }
+      ],
+      "experience": "13",
+      "college": "Oiho State",
+      "ppg": "16.4",
+      "rpg": "3.4",
+      "apg": "5.6",
+      "pie": "12.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612762/global/D/logo.svg"
+    },
+
+    {
+      "id": 71,
+      "name": "Joe Ingles",
+      "age": "33",
+      "team": "Utah Jazz",
+      "number": "2",
+      "position": "F-G",
+      "height": "6-8",
+      "weight": "220",
+      "birth_date": "October 2, 1987",
+      "country": "Australia",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "6",
+      "college": "Maccabi Tel Aviv",
+      "ppg": "11.3",
+      "rpg": "3.4",
+      "apg": "4.4",
+      "pie": "11.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/204060.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612762/global/D/logo.svg"
+    },
+
+    {
+      "id": 72,
+      "name": "Rudy Gobert",
+      "age": "28",
+      "team": "Utah Jazz",
+      "number": "27",
+      "position": "C",
+      "height": "7-1",
+      "weight": "258",
+      "birth_date": "June 26, 1992",
+      "country": "France",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "27"
+        }
+      ],
+      "experience": "7",
+      "college": "Cholet",
+      "ppg": "14.4",
+      "rpg": "13.5",
+      "apg": "1.3",
+      "pie": "15.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612762/global/D/logo.svg"
+    },
+
+    {
+      "id": 73,
+      "name": "Jordan Clarkson",
+      "age": "28",
+      "team": "Utah Jazz",
+      "number": "0",
+      "position": "G",
+      "height": "6-4",
+      "weight": "194",
+      "birth_date": "June 7, 1992",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R2",
+          "pick": "46"
+        }
+      ],
+      "experience": "6",
+      "college": "Missouri",
+      "ppg": "17.9",
+      "rpg": "4.0",
+      "apg": "2.2",
+      "pie": "12.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203903.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612762/global/D/logo.svg"
+    },
+
+    {
+      "id": 74,
+      "name": "Kyle Guy",
+      "age": "23",
+      "team": "Sacramento Kings",
+      "number": "7",
+      "position": "G",
+      "height": "6-1",
+      "weight": "167",
+      "birth_date": "August 11, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R2",
+          "pick": "55"
+        }
+      ],
+      "experience": "1",
+      "college": "Virginia",
+      "ppg": "2.6",
+      "rpg": "0.9",
+      "apg": "0.9",
+      "pie": "5.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629657.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612758/global/D/logo.svg"
+    },
+
+    {
+      "id": 75,
+      "name": "DeAaron Fox",
+      "age": "23",
+      "team": "Sacramento Kings",
+      "number": "5",
+      "position": "G",
+      "height": "6-3",
+      "weight": "185",
+      "birth_date": "December 20, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "5"
+        }
+      ],
+      "experience": "3",
+      "college": "Kentucky",
+      "ppg": "23.6",
+      "rpg": "3.4",
+      "apg": "7.6",
+      "pie": "11.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612758/global/D/logo.svg"
+    },
+
+    {
+      "id": 76,
+      "name": "Buddy Hield",
+      "age": "28",
+      "team": "Sacramento Kings",
+      "number": "24",
+      "position": "G",
+      "height": "6-4",
+      "weight": "220",
+      "birth_date": "December 17, 1992",
+      "country": "Bahamas",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R1",
+          "pick": "6"
+        }
+      ],
+      "experience": "4",
+      "college": "Oklahoma",
+      "ppg": "16.5",
+      "rpg": "4.6",
+      "apg": "3.3",
+      "pie": "7.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627741.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612758/global/D/logo.svg"
+    },
+
+    {
+      "id": 77,
+      "name": "Harrison Barnes",
+      "age": "28",
+      "team": "Sacramento Kings",
+      "number": "40",
+      "`position": "F",
+      "height": "6-8",
+      "weight": "225",
+      "birth_date": "May 30, 1992",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2012",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "8",
+      "college": "North Carolina",
+      "ppg": "16.6",
+      "rpg": "6.2",
+      "apg": "3.5",
+      "pie": "10.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203084.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612758/global/D/logo.svg"
+    },
+
+    {
+      "id": 78,
+      "name": "Marvin Bagley",
+      "age": "22",
+      "team": "Sacramento Kings",
+      "number": "35",
+      "position": "F",
+      "height": "6-11",
+      "weight": "235",
+      "birth_date": "March 14, 1999",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "2"
+        }
+      ],
+      "experience": "2",
+      "college": "Duke",
+      "ppg": "13.9",
+      "rpg": "7.4",
+      "apg": "0.9",
+      "pie": "9.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612758/global/D/logo.svg"
+    },
+
+    {
+      "id": 79,
+      "name": "Derrick Rose",
+      "age": "32",
+      "team": "New York Knicks",
+      "number": "4",
+      "position": "G",
+      "height": "6-2",
+      "weight": "200",
+      "birth_date": "October 4, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "11",
+      "college": "Memphis",
+      "ppg": "13.5",
+      "rpg": "2.2",
+      "apg": "4.5",
+      "pie": "12.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201565.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg"
+    },
+
+    {
+      "id": 80,
+      "name": "Julius Randle",
+      "age": "26",
+      "team": "New York Knicks",
+      "number": "30",
+      "position": "F-C",
+      "height": "6-8",
+      "weight": "250",
+      "birth_date": "November 29, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "6",
+      "college": "Kentucky",
+      "ppg": "23.2",
+      "rpg": "11.0",
+      "apg": "5.7",
+      "pie": "16.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg"
+    },
+
+    {
+      "id": 81,
+      "name": "Frank Ntilikina",
+      "age": "22",
+      "team": "New York Knicks",
+      "number": "11",
+      "position": "G",
+      "height": "6-4",
+      "weight": "200",
+      "birth_date": "July 28, 1998",
+      "country": "France",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "8"
+        }
+      ],
+      "experience": "3",
+      "college": "Strasbourg IG",
+      "ppg": "4.3",
+      "rpg": "1.1",
+      "apg": "0.8",
+      "pie": "4.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628373.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg"
+    },
+
+    {
+      "id": 82,
+      "name": "Kevin Knox",
+      "age": "21",
+      "team": "New York Knicks",
+      "number": "20",
+      "position": "F",
+      "height": "6-7",
+      "weight": "215",
+      "birth_date": "August 11, 1999",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "9"
+        }
+      ],
+      "experience": "2",
+      "college": "Kentucky",
+      "ppg": "5.0",
+      "rpg": "1.8",
+      "apg": "0.6",
+      "pie": "5.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg"
+    },
+
+    {
+      "id": 83,
+      "name": "RJ Barrett",
+      "age": "20",
+      "team": "New York Knicks",
+      "number": "9",
+      "position": "F-G",
+      "height": "6-6",
+      "weight": "214",
+      "birth_date": "June 14, 2000",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "1",
+      "college": "Duke",
+      "ppg": "17.2",
+      "rpg": "5.9",
+      "apg": "3.0",
+      "pie": "10.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg"
+    },
+
+    {
+      "id": 84,
+      "name": "Cole Anthony",
+      "age": "20",
+      "team": "Orlando Magic",
+      "number": "50",
+      "position": "G",
+      "height": "6-2",
+      "weight": "185",
+      "birth_date": "May 15, 2000",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2020",
+          "round": "R1",
+          "pick": "15"
+        }
+      ],
+      "experience": "Rookie",
+      "college": "North Carolina",
+      "ppg": "11.0",
+      "rpg": "4.4",
+      "apg": "3.8",
+      "pie": "8.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg"
+    },
+
+    {
+      "id": 85,
+      "name": "Evan Fournier",
+      "age": "28",
+      "team": "Orlando Magic",
+      "number": "10",
+      "position": "G-F",
+      "height": "6-7",
+      "weight": "205",
+      "birth_date": "October 29, 1992",
+      "country": "France",
+      "draft": [
+        {
+          "year": "2012",
+          "round": "R1",
+          "pick": "20"
+        }
+      ],
+      "experience": "8",
+      "college": "Poitiers Basket 86",
+      "ppg": "18.5",
+      "rpg": "3.1",
+      "apg": "3.8",
+      "pie": "10.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203095.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg"
+    },
+
+    {
+      "id": 86,
+      "name": "Nikola Vucevic",
+      "age": "30",
+      "team": "Orlando Magic",
+      "number": "9",
+      "position": "C",
+      "height": "6-11",
+      "weight": "260",
+      "birth_date": "October 24, 1990",
+      "country": "Montenegro",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "16"
+        }
+      ],
+      "experience": "9",
+      "college": "Southern California",
+      "ppg": "25.0",
+      "rpg": "11.6",
+      "apg": "3.7",
+      "pie": "17.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg"
+    },
+
+    {
+      "id": 87,
+      "name": "Aaron Gordon",
+      "age": "25",
+      "team": "Orlando Magic",
+      "number": "0",
+      "position": "F",
+      "height": "6-8",
+      "weight": "235",
+      "birth_date": "September 16, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "4"
+        }
+      ],
+      "experience": "6",
+      "college": "Arizona",
+      "ppg": "13.6",
+      "rpg": "7.0",
+      "apg": "4.0",
+      "pie": "10.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203932.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg"
+    },
+
+    {
+      "id": 88,
+      "name": "Markelle Fultz",
+      "age": "22",
+      "team": "Orlando Magic",
+      "number": "20",
+      "position": "G",
+      "height": "6-3",
+      "weight": "209",
+      "birth_date": "May 29, 1998",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "3",
+      "college": "Washington",
+      "ppg": "12.9",
+      "rpg": "3.1",
+      "apg": "5.4",
+      "pie": "8.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg"
+    },
+
+    {
+      "id": 89,
+      "name": "Luka Doncic",
+      "age": "22",
+      "team": "Dallas Mavericks",
+      "number": "77",
+      "position": "F-G",
+      "height": "6-7",
+      "weight": "230",
+      "birth_date": "February 28, 1999",
+      "country": "Slovenia",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "2",
+      "college": "Real Madrid",
+      "ppg": "28.1",
+      "rpg": "8.5",
+      "apg": "9.3",
+      "pie": "18.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612742/global/D/logo.svg"
+    },
+
+    {
+      "id": 90,
+      "name": "Kristaps Porzingis",
+      "age": "25",
+      "team": "Dallas Mavericks",
+      "number": "6",
+      "position": "F-C",
+      "height": "7-3",
+      "weight": "240",
+      "birth_date": "August 2, 1995",
+      "country": "Latvia",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "4"
+        }
+      ],
+      "experience": "4",
+      "college": "Cajasol Sevilla",
+      "ppg": "20.8",
+      "rpg": "8.4",
+      "apg": "1.3",
+      "pie": "13.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/204001.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612742/global/D/logo.svg"
+    },
+
+    {
+      "id": 91,
+      "name": "Boban Marjanovic",
+      "age": "32",
+      "team": "Dallas Mavericks",
+      "number": "51",
+      "position": "C",
+      "height": "7-4",
+      "weight": "290",
+      "birth_date": "August 15, 1988",
+      "country": "Serbia",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "5",
+      "college": "Crvena zvezda",
+      "ppg": "4.5",
+      "rpg": "4.0",
+      "apg": "0.2",
+      "pie": "15.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626246.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612742/global/D/logo.svg"
+    },
+
+    {
+      "id": 92,
+      "name": "Tim HardawayJr",
+      "age": "29",
+      "team": "Dallas Mavericks",
+      "number": "11",
+      "position": "G-F",
+      "height": "6-5",
+      "weight": "205",
+      "birth_date": "March 16, 1992",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "24"
+        }
+      ],
+      "experience": "7",
+      "college": "Michigan",
+      "ppg": "16.3",
+      "rpg": "3.2",
+      "apg": "1.7",
+      "pie": "9.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203501.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612742/global/D/logo.svg"
+    },
+
+    {
+      "id": 93,
+      "name": "Jalen Brunson",
+      "age": "24",
+      "team": "Dallas Mavericks",
+      "number": "13",
+      "position": "G",
+      "height": "6-1",
+      "weight": "190",
+      "birth_date": "August 31, 1996",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R2",
+          "pick": "33"
+        }
+      ],
+      "experience": "2",
+      "college": "Villanova",
+      "ppg": "12.8",
+      "rpg": "3.4",
+      "apg": "3.4",
+      "pie": "12.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628973.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612742/global/D/logo.svg"
+    },
+
+    {
+      "id": 94,
+      "name": "Nikola Jokic",
+      "age": "26",
+      "team": "Denver Nuggets",
+      "number": "15",
+      "position": "C",
+      "height": "6-11",
+      "weight": "284",
+      "birth_date": "February 19, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R2",
+          "pick": "41"
+        }
+      ],
+      "experience": "5",
+      "college": "Mega Basket",
+      "ppg": "27.3",
+      "rpg": "11.2",
+      "apg": "8.5",
+      "pie": "20.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612743/global/D/logo.svg"
+    },
+
+    {
+      "id": 95,
+      "name": "Jamal Murray",
+      "age": "24",
+      "team": "Denver Nuggets",
+      "number": "27",
+      "position": "G",
+      "height": "6-3",
+      "weight": "215",
+      "birth_date": "February 23, 1997",
+      "country": "Canada",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "4",
+      "college": "Kentucky",
+      "ppg": "20.8",
+      "rpg": "4.1",
+      "apg": "4.7",
+      "pie": "11.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627750.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612743/global/D/logo.svg"
+    },
+
+    {
+      "id": 96,
+      "name": "Paul Millsap",
+      "age": "36",
+      "team": "Denver Nuggets",
+      "number": "4",
+      "position": "F",
+      "height": "6-7",
+      "weight": "257",
+      "birth_date": "February 10, 1985",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2006",
+          "round": "R2",
+          "pick": "47"
+        }
+      ],
+      "experience": "14",
+      "college": "Louisiana Tech",
+      "ppg": "10.1",
+      "rpg": "5.2",
+      "apg": "1.6",
+      "pie": "9.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/200794.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612743/global/D/logo.svg"
+    },
+
+    {
+      "id": 97,
+      "name": "Gary Harris",
+      "age": "26",
+      "team": "Denver Nuggets",
+      "number": "14",
+      "position": "G",
+      "height": "6-4",
+      "weight": "210",
+      "birth_date": "September 14, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "19"
+        }
+      ],
+      "experience": "6",
+      "college": "Michigan State",
+      "ppg": "9.7",
+      "rpg": "2.5",
+      "apg": "1.7",
+      "pie": "5.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203914.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612743/global/D/logo.svg"
+    },
+
+    {
+      "id": 98,
+      "name": "Michael PorterJr",
+      "age": "22",
+      "team": "Denver Nuggets",
+      "number": "1",
+      "position": "F",
+      "height": "6-10",
+      "weight": "218",
+      "birth_date": "June 29, 1998",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "14"
+        }
+      ],
+      "experience": "1",
+      "college": "Missouri",
+      "ppg": "15.3",
+      "rpg": "7.2",
+      "apg": "0.8",
+      "pie": "11.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612743/global/D/logo.svg"
+    },
+
+    {
+      "id": 99,
+      "name": "Caris Levert",
+      "age": "26",
+      "team": "Indiana Pacers",
+      "number": "22",
+      "position": "G",
+      "height": "6-6",
+      "weight": "205",
+      "birth_date": "August 25, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R1",
+          "pick": "20"
+        }
+      ],
+      "experience": "4",
+      "college": "Michigan",
+      "ppg": "18.0",
+      "rpg": "4.4",
+      "apg": "5.4",
+      "pie": "12.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627747.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612754/global/D/logo.svg"
+    },
+
+    {
+      "id": 100,
+      "name": "Justin Holiday",
+      "age": "31",
+      "team": "Indiana Pacers",
+      "number": "8",
+      "position": "F-G",
+      "height": "6-6",
+      "weight": "180",
+      "birth_date": "April 5, 1989",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "7",
+      "college": "Washington",
+      "ppg": "11.6",
+      "rpg": "3.9",
+      "apg": "1.7",
+      "pie": "7.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203200.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612754/global/D/logo.svg"
+    },
+
+    {
+      "id": 101,
+      "name": "Malcolm Brogdon",
+      "age": "28",
+      "team": "Indiana Pacers",
+      "number": "7",
+      "position": "G",
+      "height": "6-5",
+      "weight": "229",
+      "birth_date": "December 11, 1992",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R2",
+          "pick": "36"
+        }
+      ],
+      "experience": "4",
+      "college": "Virginia",
+      "ppg": "21.6",
+      "rpg": "4.8",
+      "apg": "6.1",
+      "pie": "12.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627763.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612754/global/D/logo.svg"
+    },
+
+    {
+      "id": 102,
+      "name": "TJ Warren",
+      "age": "27",
+      "team": "Indiana Pacers",
+      "number": "1",
+      "position": "F",
+      "height": "6-8",
+      "weight": "220",
+      "birth_date": "September 5, 1993",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "14"
+        }
+      ],
+      "experience": "6",
+      "college": "North Carolina State",
+      "ppg": "15.5",
+      "rpg": "3.5",
+      "apg": "1.3",
+      "pie": "7.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203933.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612754/global/D/logo.svg"
+    },
+
+    {
+      "id": 103,
+      "name": "Domantas Sabonis",
+      "age": "24",
+      "team": "Indiana Pacers",
+      "number": "11",
+      "position": "F-C",
+      "height": "6-11",
+      "weight": "240",
+      "birth_date": "May 3, 1996",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R1",
+          "pick": "11"
+        }
+      ],
+      "experience": "4",
+      "college": "Gonzaga",
+      "ppg": "20.5",
+      "rpg": "11.2",
+      "apg": "6.3",
+      "pie": "14.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612754/global/D/logo.svg"
+    },
+
+    {
+      "id": 104,
+      "name": "Steven Adams",
+      "age": "27",
+      "team": "New Orleans Pelicans",
+      "number": "12",
+      "position": "C",
+      "height": "6-11",
+      "weight": "265",
+      "birth_date": "July 20, 1993",
+      "country": "New Zealand",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "12"
+        }
+      ],
+      "experience": "7",
+      "college": "Pittsburgh",
+      "ppg": "8.3",
+      "rpg": "9.2",
+      "apg": "2.0",
+      "pie": "9.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612740/global/D/logo.svg"
+    },
+
+    {
+      "id": 105,
+      "name": "Lonzo Ball",
+      "age": "23",
+      "team": "New Orleans Pelicans",
+      "number": "2",
+      "position": "G",
+      "height": "6-6",
+      "weight": "190",
+      "birth_date": "October 27, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "2"
+        }
+      ],
+      "experience": "3",
+      "college": "UCLA",
+      "ppg": "14.3",
+      "rpg": "4.2",
+      "apg": "5.2",
+      "pie": "9.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628366.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612740/global/D/logo.svg"
+    },
+
+    {
+      "id": 106,
+      "name": "JJ Redick",
+      "age": "36",
+      "team": "New Orleans Pelicans",
+      "number": "4",
+      "position": "G",
+      "height": "6-3",
+      "weight": "200",
+      "birth_date": "June 24, 1984",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2006",
+          "round": "R1",
+          "pick": "11"
+        }
+      ],
+      "experience": "14",
+      "college": "Duke",
+      "ppg": "8.7",
+      "rpg": "1.7",
+      "apg": "1.3",
+      "pie": "7.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/200755.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612740/global/D/logo.svg"
+    },
+
+    {
+      "id": 107,
+      "name": "Zion Williamson",
+      "age": "20",
+      "team": "New Orleans Pelicans",
+      "number": "1",
+      "position": "F",
+      "height": "6-7",
+      "weight": "284",
+      "birth_date": "July 6, 2000",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "1",
+      "college": "Duke",
+      "ppg": "25.5",
+      "rpg": "7.0",
+      "apg": "3.4",
+      "pie": "14.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612740/global/D/logo.svg"
+    },
+
+    {
+      "id": 108,
+      "name": "Josh Hart",
+      "age": "26",
+      "team": "New Orleans Pelicans",
+      "number": "3",
+      "position": "G",
+      "height": "6-5",
+      "weight": "215",
+      "birth_date": "March 6, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "30"
+        }
+      ],
+      "experience": "3",
+      "college": "Villanova",
+      "ppg": "9.1",
+      "rpg": "7.3",
+      "apg": "2.1",
+      "pie": "9.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612740/global/D/logo.svg"
+    },
+    {
+      "id": 109,
+      "name": "Jerami Grant",
+      "age": "27",
+      "team": "Detroit Pistons",
+      "number": "9",
+      "position": "F",
+      "height": "6-8",
+      "weight": "210",
+      "birth_date": "March 12, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R2",
+          "pick": "39"
+        }
+      ],
+      "experience": "6",
+      "college": "Syracuse",
+      "ppg": "23.4",
+      "rpg": "5.2",
+      "apg": "2.9",
+      "pie": "11.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203924.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg"
+    },
+    {
+      "id": 110,
+      "name": "Josh Jackson",
+      "age": "24",
+      "team": "Detroit Pistons",
+      "number": "20",
+      "position": "F-G",
+      "height": "6-8",
+      "weight": "207",
+      "birth_date": "February 10, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "4"
+        }
+      ],
+      "experience": "3",
+      "college": "Kansas",
+      "ppg": "13.3",
+      "rpg": "4.3",
+      "apg": "1.9",
+      "pie": "8.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628367.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg"
+    },
+    {
+      "id": 111,
+      "name": "Jahil Okafor",
+      "age": "25",
+      "team": "Detroit Pistons",
+      "number": "13",
+      "position": "F-C",
+      "height": "6-10",
+      "weight": "270",
+      "birth_date": "December 15, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "5",
+      "college": "Duke",
+      "ppg": "4.3",
+      "rpg": "2.3",
+      "apg": "0.3",
+      "pie": "10.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626143.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg"
+    },
+    {
+      "id": 112,
+      "name": "Mason Plumlee",
+      "age": "31",
+      "team": "Detroit Pistons",
+      "number": "24",
+      "position": "F-C",
+      "height": "6-11",
+      "weight": "254",
+      "birth_date": "March 5, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "22"
+        }
+      ],
+      "experience": "7",
+      "college": "Duke",
+      "ppg": "10.4",
+      "rpg": "9.2",
+      "apg": "3.8",
+      "pie": "12.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203486.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg"
+    },
+    {
+      "id": 113,
+      "name": "Killian Hayes",
+      "age": "19",
+      "team": "Detroit Pistons",
+      "number": "7",
+      "position": "G",
+      "height": "6-5",
+      "weight": "195",
+      "birth_date": "July 27, 2001",
+      "country": "France",
+      "draft": [
+        {
+          "year": "2020",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "Rookie",
+      "college": "Ratiopharm Ulm",
+      "ppg": "4.6",
+      "rpg": "1.1",
+      "apg": "3.6",
+      "pie": "-0.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630165.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg"
+    },
+    {
+      "id": 114,
+      "name": "Kyle Lowry",
+      "age": "34",
+      "team": "Toronto Raptors",
+      "number": "7",
+      "position": "G",
+      "height": "6-0",
+      "weight": "196",
+      "birth_date": "March 25, 1986",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2006",
+          "round": "R1",
+          "pick": "24"
+        }
+      ],
+      "experience": "14",
+      "college": "Villanova",
+      "ppg": "18.1",
+      "rpg": "5.6",
+      "apg": "7.3",
+      "pie": "11.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/200768.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612761/global/D/logo.svg"
+    },
+    {
+      "id": 115,
+      "name": "Pascal Siakam",
+      "age": "26",
+      "team": "Toronto Raptors",
+      "number": "43",
+      "position": "F",
+      "height": "6-9",
+      "weight": "230",
+      "birth_date": "April 2, 1994",
+      "country": "Cameroon",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R1",
+          "pick": "27"
+        }
+      ],
+      "experience": "4",
+      "college": "New Mexico State",
+      "ppg": "20.1",
+      "rpg": "7.5",
+      "apg": "4.8",
+      "pie": "11.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612761/global/D/logo.svg"
+    },
+    {
+      "id": 116,
+      "name": "Fred VanVleet",
+      "age": "27",
+      "team": "Toronto Raptors",
+      "number": "23",
+      "position": "G",
+      "height": "6-1",
+      "weight": "197",
+      "birth_date": "February 25, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "4",
+      "college": "Wichita State",
+      "ppg": "20.1",
+      "rpg": "4.4",
+      "apg": "6.6",
+      "pie": "12.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612761/global/D/logo.svg"
+    },
+    {
+      "id": 117,
+      "name": "Yuta Watanabe",
+      "age": "26",
+      "team": "Toronto Raptors",
+      "number": "18",
+      "position": "F-G",
+      "height": "6-9",
+      "weight": "215",
+      "birth_date": "October 13, 1994",
+      "country": "Japan",
+      "draft": [
+        {
+          "year": "",
+          "round": "",
+          "pick": "",
+          "drafted": "undraft"
+        }
+      ],
+      "experience": "2",
+      "college": "George Washington",
+      "ppg": "2.6",
+      "rpg": "3.1",
+      "apg": "0.5",
+      "pie": "7.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629139.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612761/global/D/logo.svg"
+    },
+    {
+      "id": 118,
+      "name": "OG Anunoby",
+      "age": "23",
+      "team": "Toronto Raptors",
+      "number": "3",
+      "position": "F",
+      "height": "6-7",
+      "weight": "232",
+      "birth_date": "July 17, 1997",
+      "country": "United Kingdom",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "23"
+        }
+      ],
+      "experience": "3",
+      "college": "Indiana",
+      "ppg": "13.8",
+      "rpg": "5.7",
+      "apg": "1.7",
+      "pie": "9.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612761/global/D/logo.svg"
+    },
+    {
+      "id": 119,
+      "name": "Eric Gordon",
+      "age": "32",
+      "team": "Houston Rockets",
+      "number": "10",
+      "position": "G",
+      "height": "6-3",
+      "weight": "215",
+      "birth_date": "December 25, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "12",
+      "college": "Indiana",
+      "ppg": "17.8",
+      "rpg": "2.1",
+      "apg": "2.6",
+      "pie": "9.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201569.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612745/alt/logo.svg"
+    },
+    {
+      "id": 120,
+      "name": "Victor Oladipo",
+      "age": "28",
+      "team": "Houston Rockets",
+      "number": "7",
+      "position": "G",
+      "height": "6-4",
+      "weight": "213",
+      "birth_date": "May 4, 1992",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "2"
+        }
+      ],
+      "experience": "7",
+      "college": "Indiana",
+      "ppg": "20.8",
+      "rpg": "5.1",
+      "apg": "4.7",
+      "pie": "11.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203506.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612745/alt/logo.svg"
+    },
+    {
+      "id": 121,
+      "name": "PJ Tucker",
+      "age": "35",
+      "team": "Houston Rockets",
+      "number": "17",
+      "position": "F",
+      "height": "6-5",
+      "weight": "245",
+      "birth_date": "May 5, 1985",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2006",
+          "round": "R2",
+          "pick": "35"
+        }
+      ],
+      "experience": "9",
+      "college": "Texas",
+      "ppg": "4.4",
+      "rpg": "4.6",
+      "apg": "1.4",
+      "pie": "3.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/200782.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612745/alt/logo.svg"
+    },
+    {
+      "id": 122,
+      "name": "John Wall",
+      "age": "30",
+      "team": "Houston Rockets",
+      "number": "1",
+      "position": "G",
+      "height": "6-3",
+      "weight": "210",
+      "birth_date": "September 6, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2010",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "9",
+      "college": "Kentucky",
+      "ppg": "21.0",
+      "rpg": "3.2",
+      "apg": "6.0",
+      "pie": "12.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202322.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612745/alt/logo.svg"
+    },
+    {
+      "id": 123,
+      "name": "Ben McLemore",
+      "age": "28",
+      "team": "Houston Rockets",
+      "number": "16",
+      "position": "G",
+      "height": "6-3",
+      "weight": "195",
+      "birth_date": "February 11, 1993",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "7",
+      "college": "Kansas",
+      "ppg": "6.6",
+      "rpg": "2.3",
+      "apg": "0.9",
+      "pie": "4.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203463.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612745/alt/logo.svg"
+    },
+    {
+      "id": 124,
+      "name": "Demar Derozan",
+      "age": "31",
+      "team": "San Antonio Spurs",
+      "number": "10",
+      "position": "F-G",
+      "height": "6-6",
+      "weight": "220",
+      "birth_date": "August 7, 1989",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2009",
+          "round": "R1",
+          "pick": "9"
+        }
+      ],
+      "experience": "11",
+      "college": "Southern California",
+      "ppg": "20.3",
+      "rpg": "4.7",
+      "apg": "7.3",
+      "pie": "14.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201942.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612759/global/D/logo.svg"
+    },
+    {
+      "id": 125,
+      "name": "Lamarcus Aldridge",
+      "age": "35",
+      "team": "San Antonio Spurs",
+      "number": "12",
+      "position": "F-C",
+      "height": "6-11",
+      "weight": "250",
+      "birth_date": "July 19, 1985",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2006",
+          "round": "R1",
+          "pick": "2"
+        }
+      ],
+      "experience": "14",
+      "college": "Texas",
+      "ppg": "13.7",
+      "rpg": "4.5",
+      "apg": "1.7",
+      "pie": "9.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/200746.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612759/global/D/logo.svg"
+    },
+    {
+      "id": 126,
+      "name": "Rudy Gay",
+      "age": "34",
+      "team": "San Antonio Spurs",
+      "number": "22",
+      "position": "F-G",
+      "height": "6-8",
+      "weight": "250",
+      "birth_date": "August 17, 1986",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2006",
+          "round": "R1",
+          "pick": "8"
+        }
+      ],
+      "experience": "14",
+      "college": "Connecticut",
+      "ppg": "11.1",
+      "rpg": "5.0",
+      "apg": "1.6",
+      "pie": "10.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/200752.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612759/global/D/logo.svg"
+    },
+    {
+      "id": 127,
+      "name": "Patty Mills",
+      "age": "32",
+      "team": "San Antonio Spurs",
+      "number": "8",
+      "position": "G",
+      "height": "6-1",
+      "weight": "180",
+      "birth_date": "August 11, 1988",
+      "country": "Australia",
+      "draft": [
+        {
+          "year": "2009",
+          "round": "R2",
+          "pick": "55"
+        }
+      ],
+      "experience": "11",
+      "college": "St.Mary's College of California",
+      "ppg": "13.0",
+      "rpg": "1.8",
+      "apg": "2.6",
+      "pie": "9.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201988.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612759/global/D/logo.svg"
+    },
+    {
+      "id": 128,
+      "name": "Derrick White",
+      "age": "26",
+      "team": "San Antonio Spurs",
+      "number": "4",
+      "position": "G",
+      "height": "6-4",
+      "weight": "190",
+      "birth_date": "July 2, 1994",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "29"
+        }
+      ],
+      "experience": "3",
+      "college": "Colorado",
+      "ppg": "11.9",
+      "rpg": "2.0",
+      "apg": "3.3",
+      "pie": "7.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612759/global/D/logo.svg"
+    },
+    {
+      "id": 129,
+      "name": "Devin Booker",
+      "age": "24",
+      "team": "Phoenix Suns",
+      "number": "1",
+      "position": "G",
+      "height": "6-5",
+      "weight": "206",
+      "birth_date": "October 30, 1996",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "13"
+        }
+      ],
+      "experience": "5",
+      "college": "Kentucky",
+      "ppg": "25.1",
+      "rpg": "3.7",
+      "apg": "4.6",
+      "pie": "12.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612756/global/D/logo.svg"
+    },
+    {
+      "id": 130,
+      "name": "Deandre Ayton",
+      "age": "22",
+      "team": "Phoenix Suns",
+      "number": "22",
+      "position": "C",
+      "height": "6-11",
+      "weight": "250",
+      "birth_date": "July 23, 1998",
+      "country": "Bahamas",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "2",
+      "college": "Arizona",
+      "ppg": "14.4",
+      "rpg": "11.2",
+      "apg": "1.6",
+      "pie": "12.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612756/global/D/logo.svg"
+    },
+    {
+      "id": 131,
+      "name": "Chris Paul",
+      "age": "35",
+      "team": "Phoenix Suns",
+      "number": "3",
+      "position": "G",
+      "height": "6-0",
+      "weight": "175",
+      "birth_date": "May 6, 1985",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2005",
+          "round": "R1",
+          "pick": "4"
+        }
+      ],
+      "experience": "15",
+      "college": "Wake Forest",
+      "ppg": "15.9",
+      "rpg": "4.6",
+      "apg": "8.8",
+      "pie": "14.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612756/global/D/logo.svg"
+    },
+    {
+      "id": 132,
+      "name": "Dario Saric",
+      "age": "26",
+      "team": "Phoenix Suns",
+      "number": "20",
+      "position": "F-C",
+      "height": "6-10",
+      "weight": "225",
+      "birth_date": "April 8, 1994",
+      "country": "Croatia",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "12"
+        }
+      ],
+      "experience": "4",
+      "college": "Anadolu Efes",
+      "ppg": "11.5",
+      "rpg": "4.2",
+      "apg": "1.4",
+      "pie": "11.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203967.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612756/global/D/logo.svg"
+    },
+    {
+      "id": 133,
+      "name": "Frank Kaminsky",
+      "age": "27",
+      "team": "Phoenix Suns",
+      "number": "8",
+      "position": "F-C",
+      "height": "7-0",
+      "weight": "240",
+      "birth_date": "April 4, 1993",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "9"
+        }
+      ],
+      "experience": "5",
+      "college": "Wisconsin",
+      "ppg": "6.8",
+      "rpg": "3.8",
+      "apg": "1.7",
+      "pie": "11.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626163.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612756/global/D/logo.svg"
+    },
+    {
+      "id": 134,
+      "name": "Al Horford",
+      "age": "34",
+      "team": "Oklahoma City Thunder",
+      "number": "42",
+      "position": "F-C",
+      "height": "6-9",
+      "weight": "240",
+      "birth_date": "June 3, 1986",
+      "country": "Dominican Republic",
+      "draft": [
+        {
+          "year": "2007",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "13",
+      "college": "Florida",
+      "ppg": "14.4",
+      "rpg": "6.7",
+      "apg": "3.3",
+      "pie": "12.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg"
+    },
+    {
+      "id": 135,
+      "name": "Justin Jackson",
+      "age": "25",
+      "team": "Oklahoma City Thunder",
+      "number": "44",
+      "position": "F",
+      "height": "6-8",
+      "weight": "220",
+      "birth_date": "March 28, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2017",
+          "round": "R1",
+          "pick": "15"
+        }
+      ],
+      "experience": "3",
+      "college": "North Carolina",
+      "ppg": "6.6",
+      "rpg": "2.3",
+      "apg": "1.5",
+      "pie": "7.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628382.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg"
+    },
+    {
+      "id": 136,
+      "name": "Ty Jerome",
+      "age": "23",
+      "team": "Oklahoma City Thunder",
+      "number": "16",
+      "position": "F-G",
+      "height": "6-5",
+      "weight": "195",
+      "birth_date": "July 8, 1997",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R1",
+          "pick": "24"
+        }
+      ],
+      "experience": "1",
+      "college": "Virginia",
+      "ppg": "9.3",
+      "rpg": "3.6",
+      "apg": "3.4",
+      "pie": "8.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629660.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg"
+    },
+    {
+      "id": 137,
+      "name": "George Hill",
+      "age": "34",
+      "team": "Oklahoma City Thunder",
+      "number": "3",
+      "position": "G",
+      "height": "6-4",
+      "weight": "188",
+      "birth_date": "May 4, 1986",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "26"
+        }
+      ],
+      "experience": "12",
+      "college": "Indiana-Purdue Indianapolis",
+      "ppg": "11.8",
+      "rpg": "2.1",
+      "apg": "3.1",
+      "pie": "10.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201588.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg"
+    },
+    {
+      "id": 138,
+      "name": "Trevor Ariza",
+      "age": "35",
+      "team": "Oklahoma City Thunder",
+      "number": "8",
+      "position": "F",
+      "height": "6-8",
+      "weight": "215",
+      "birth_date": "June 30, 1985",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2004",
+          "round": "R2",
+          "pick": "43"
+        }
+      ],
+      "experience": "16",
+      "college": "UCLA",
+      "ppg": "8.0",
+      "rpg": "4.6",
+      "apg": "1.7",
+      "pie": "7.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/2772.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg"
+    },
+    {
+      "id": 139,
+      "name": "Anthony Edwards",
+      "age": "19",
+      "team": "Minnesota Timberwolves",
+      "number": "1",
+      "position": "G",
+      "height": "6-4",
+      "weight": "225",
+      "birth_date": "August 5, 2001",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2020",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "Rookie",
+      "college": "Georgia",
+      "ppg": "15.8",
+      "rpg": "4.1",
+      "apg": "2.5",
+      "pie": "7.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612750/global/D/logo.svg"
+    },
+    {
+      "id": 140,
+      "name": "Karl AnthonyTowns",
+      "age": "25",
+      "team": "Minnesota Timberwolves",
+      "number": "32",
+      "position": "F-C",
+      "height": "6-11",
+      "weight": "248",
+      "birth_date": "November 15, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "5",
+      "college": "Kentucky",
+      "ppg": "21.8",
+      "rpg": "10.5",
+      "apg": "4.0",
+      "pie": "14.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626157.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612750/global/D/logo.svg"
+    },
+    {
+      "id": 141,
+      "name": "Dangelo Russell",
+      "age": "25",
+      "team": "Minnesota Timberwolves",
+      "number": "0",
+      "position": "G",
+      "height": "6-4",
+      "weight": "193",
+      "birth_date": "February 23, 1996",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "2"
+        }
+      ],
+      "experience": "5",
+      "college": "Ohio State",
+      "ppg": "19.3",
+      "rpg": "2.6",
+      "apg": "5.1",
+      "pie": "10.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626156.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612750/global/D/logo.svg"
+    },
+    {
+      "id": 142,
+      "name": "Josh Okogie",
+      "age": "22",
+      "team": "Minnesota Timberwolves",
+      "number": "20",
+      "position": "G",
+      "height": "6-4",
+      "weight": "213",
+      "birth_date": "September 1, 1998",
+      "country": "Nigeria",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "20"
+        }
+      ],
+      "experience": "2",
+      "college": "Georgia Tech",
+      "ppg": "4.9",
+      "rpg": "2.6",
+      "apg": "1.2",
+      "pie": "4.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612750/global/D/logo.svg"
+    },
+    {
+      "id": 143,
+      "name": "Juancho Hernangomez",
+      "age": "25",
+      "team": "Minnesota Timberwolves",
+      "number": "41",
+      "position": "F",
+      "height": "6-9",
+      "weight": "214",
+      "birth_date": "September 28, 1995",
+      "country": "Spain",
+      "draft": [
+        {
+          "year": "2016",
+          "round": "R1",
+          "pick": "15"
+        }
+      ],
+      "experience": "4",
+      "college": "Estudiantes",
+      "ppg": "6.1",
+      "rpg": "4.4",
+      "apg": "0.6",
+      "pie": "8.4",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627823.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612750/global/D/logo.svg"
+    },
+    {
+      "id": 144,
+      "name": "Carmelo Anthony",
+      "age": "36",
+      "team": "Portland Trail Blazers",
+      "number": "0",
+      "position": "F",
+      "height": "6-7",
+      "weight": "238",
+      "birth_date": "May 29, 1984",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2003",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "17",
+      "college": "Syracuse",
+      "ppg": "14.2",
+      "rpg": "3.4",
+      "apg": "1.6",
+      "pie": "9.0",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/2546.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg"
+    },
+    {
+      "id": 145,
+      "name": "Damian Lillard",
+      "age": "30",
+      "team": "Portland Trail Blazers",
+      "number": "0",
+      "position": "G",
+      "height": "6-2",
+      "weight": "195",
+      "birth_date": "July 15, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2012",
+          "round": "R1",
+          "pick": "6"
+        }
+      ],
+      "experience": "8",
+      "college": "Weber State",
+      "ppg": "30.5",
+      "rpg": "4.5",
+      "apg": "8.0",
+      "pie": "16.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg"
+    },
+    {
+      "id": 146,
+      "name": "Enes Kanter",
+      "age": "28",
+      "team": "Portland Trail Blazers",
+      "number": "11",
+      "position": "C",
+      "height": "6-10",
+      "weight": "250",
+      "birth_date": "May 20, 1992",
+      "country": "Turkey",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "9",
+      "college": "Fenerbahce",
+      "ppg": "12.0",
+      "rpg": "11.8",
+      "apg": "1.2",
+      "pie": "13.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202683.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg"
+    },
+    {
+      "id": 147,
+      "name": "CJ McCollum",
+      "age": "29",
+      "team": "Portland Trail Blazers",
+      "number": "3",
+      "position": "G",
+      "height": "6-3",
+      "weight": "190",
+      "birth_date": "September 19, 1991",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "10"
+        }
+      ],
+      "experience": "7",
+      "college": "Lehigh",
+      "ppg": "25.5",
+      "rpg": "3.9",
+      "apg": "4.8",
+      "pie": "14.1",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203468.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg"
+    },
+    {
+      "id": 148,
+      "name": "Jusuf Nurkic",
+      "age": "26",
+      "team": "Portland Trail Blazers",
+      "number": "27",
+      "position": "C",
+      "height": "6-11",
+      "weight": "290",
+      "birth_date": "August 23, 1994",
+      "country": "Bosnia and Herzegovina",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "16"
+        }
+      ],
+      "experience": "6",
+      "college": "Cedevita",
+      "ppg": "9.8",
+      "rpg": "7.7",
+      "apg": "2.8",
+      "pie": "10.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203994.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg"
+    },
+    {
+      "id": 149,
+      "name": "Stephen Curry",
+      "age": "33",
+      "team": "Golden State Warriors",
+      "number": "30",
+      "position": "G",
+      "height": "6-3",
+      "weight": "185",
+      "birth_date": "March 14, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2009",
+          "round": "R1",
+          "pick": "7"
+        }
+      ],
+      "experience": "11",
+      "college": "Davidson",
+      "ppg": "29.3",
+      "rpg": "5.3",
+      "apg": "6.2",
+      "pie": "17.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612744/global/D/logo.svg"
+    },
+    {
+      "id": 150,
+      "name": "Draymond Green",
+      "age": "31",
+      "team": "Golden State Warriors",
+      "number": "23",
+      "position": "F",
+      "height": "6-6",
+      "weight": "230",
+      "birth_date": "March 4, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2012",
+          "round": "R2",
+          "pick": "35"
+        }
+      ],
+      "experience": "8",
+      "college": "Michigan State",
+      "ppg": "5.9",
+      "rpg": "6.1",
+      "apg": "8.5",
+      "pie": "9.5",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612744/global/D/logo.svg"
+    },
+    {
+      "id": 151,
+      "name": "Klay Thompson",
+      "age": "31",
+      "team": "Golden State Warriors",
+      "number": "11",
+      "position": "G",
+      "height": "6-6",
+      "weight": "215",
+      "birth_date": "February 8, 1990",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2011",
+          "round": "R1",
+          "pick": "11"
+        }
+      ],
+      "experience": "8",
+      "college": "Washington State",
+      "ppg": "21.5",
+      "rpg": "3.8",
+      "apg": "2.4",
+      "pie": "10.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/202691.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612744/global/D/logo.svg"
+    },
+    {
+      "id": 152,
+      "name": "Kelly OubreJr",
+      "age": "25",
+      "team": "Golden State Warriors",
+      "number": "12",
+      "position": "F-G",
+      "height": "6-7",
+      "weight": "203",
+      "birth_date": "December 9, 1995",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2015",
+          "round": "R1",
+          "pick": "15"
+        }
+      ],
+      "experience": "5",
+      "college": "Kansas",
+      "ppg": "15.1",
+      "rpg": "5.9",
+      "apg": "1.3",
+      "pie": "8.9",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626162.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612744/global/D/logo.svg"
+    },
+    {
+      "id": 153,
+      "name": "Andrew Wiggins",
+      "age": "26",
+      "team": "Golden State Warriors",
+      "number": "22",
+      "position": "F",
+      "height": "6-7",
+      "weight": "197",
+      "birth_date": "February 23, 1995",
+      "country": "Canada",
+      "draft": [
+        {
+          "year": "2014",
+          "round": "R1",
+          "pick": "1"
+        }
+      ],
+      "experience": "6",
+      "college": "Kansas",
+      "ppg": "17.2",
+      "rpg": "4.5",
+      "apg": "2.1",
+      "pie": "9.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203952.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612744/global/D/logo.svg"
+    },
+    {
+      "id": 154,
+      "name": "Rui Hachimura",
+      "age": "23",
+      "team": "Washington Wizards",
+      "number": "8",
+      "position": "F",
+      "height": "6-8",
+      "weight": "230",
+      "birth_date": "February 8, 1998",
+      "country": "Japan",
+      "draft": [
+        {
+          "year": "2019",
+          "round": "R1",
+          "pick": "9"
+        }
+      ],
+      "experience": "1",
+      "college": "Gonzaga",
+      "ppg": "13.2",
+      "rpg": "5.5",
+      "apg": "1.7",
+      "pie": "8.6",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612764/global/D/logo.svg"
+    },
+    {
+      "id": 155,
+      "name": "Russell Westbrook",
+      "age": "32",
+      "team": "Washington Wizards",
+      "number": "4",
+      "position": "G",
+      "height": "6-3",
+      "weight": "200",
+      "birth_date": "November 12, 1988",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2008",
+          "round": "R1",
+          "pick": "4"
+        }
+      ],
+      "experience": "12",
+      "college": "UCLA",
+      "ppg": "21.2",
+      "rpg": "9.3",
+      "apg": "10.1",
+      "pie": "13.8",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612764/global/D/logo.svg"
+    },
+    {
+      "id": 156,
+      "name": "Bradley Beal",
+      "age": "27",
+      "team": "Washington Wizards",
+      "number": "3",
+      "position": "G",
+      "height": "6-3",
+      "weight": "207",
+      "birth_date": "June 28, 1993",
+      "country": "USA",
+      "draft": [
+        {
+          "year": "2012",
+          "round": "R1",
+          "pick": "3"
+        }
+      ],
+      "experience": "8",
+      "college": "Florida",
+      "ppg": "32.3",
+      "rpg": "5.3",
+      "apg": "4.6",
+      "pie": "15.7",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203078.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612764/global/D/logo.svg"
+    },
+    {
+      "id": 157,
+      "name": "Alex Len",
+      "age": "27",
+      "team": "Washington Wizards",
+      "number": "27",
+      "position": "C",
+      "height": "7-0",
+      "weight": "250",
+      "birth_date": "June 16, 1993",
+      "country": "Ukraine",
+      "draft": [
+        {
+          "year": "2013",
+          "round": "R1",
+          "pick": "5"
+        }
+      ],
+      "experience": "7",
+      "college": "Maryland",
+      "ppg": "5.3",
+      "rpg": "3.0",
+      "apg": "0.9",
+      "pie": "9.2",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/203458.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612764/global/D/logo.svg"
+    },
+    {
+      "id": 158,
+      "name": "Moritz Wagner",
+      "age": "23",
+      "team": "Washington Wizards",
+      "number": "21",
+      "position": "F-C",
+      "height": "6-11",
+      "weight": "245",
+      "birth_date": "April 26, 1997",
+      "country": "Germany",
+      "draft": [
+        {
+          "year": "2018",
+          "round": "R1",
+          "pick": "25"
+        }
+      ],
+      "experience": "2",
+      "college": "Michigan",
+      "ppg": "7.0",
+      "rpg": "3.0",
+      "apg": "1.2",
+      "pie": "9.3",
+      "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.png",
+      "logo": "https://cdn.nba.com/logos/nba/1610612764/global/D/logo.svg"
+    }
+  ]
+}
